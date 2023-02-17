@@ -10,3 +10,4 @@ interface IASTNftSale is IERC721EnumerableUpgradeable {
 
     function getRevealedTime() external view returns (uint256);
 }
+// interface
